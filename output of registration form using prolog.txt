@@ -1,0 +1,85 @@
+Welcome to SWI-Prolog (threaded, 64 bits, version 8.2.3)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+?- 
+% c:/Users/admin/Documents/Prolog/registration.pl compiled 0.02 sec, 58 clauses
+?- predict.
+welcome to hathway cable service provider 
+regular channels list:
+1.star_plus
+2.star_plus_hd
+3.sony_tv
+4.sony_hd
+5.zee_tv
+6.zee_hd
+7.colors_tv
+8.colors_hd
+9.andtv
+10.andtv_hd
+11.rishtey_cineplex
+12.sony_max
+13.max_hd
+14.star_gold
+15.star_gold_hd
+16.zee_cinema
+17.zee_cinema_hd
+18.utv_movies
+19.and_pictures
+20.pogo
+21.cartoon_network
+22.sony_yay
+23.marvel_hq
+24.discovery_kids
+25.aaj_tak
+26.republic_bharat
+27.tv9
+28.abp_news
+29.zee_news
+30.mtv
+31 mtv_beats
+32.b4u_music
+33.bollywood_classics
+34.star_sports_1
+35.star_sports_1_hd
+36.star_sports_2
+37.star_sports_2_hd
+38.max_2
+39.mtv_hd
+40.nick
+41.nick_hd
+42.sony_wah
+43.utv_hd
+44.and_pictures_hd
+45.cartoon_network_hd
+Subscriber name?ish.
+ish,do you want to subscribe star_plus(y/n)?n.
+ish,do you want to subscribe star_plus_hd (y/n)?|: y.
+ish,do you want to subscribe sony_hd (y/n)?|: y.
+ish,do you want to subscribe zee_hd (y/n)?|: y.
+ish,do you want to subscribe colors_hd(y/n)?|: y.
+ish,do you want to subscribe andtv_hd (y/n)?|: y.
+ish,do you want to subscribe rishtey_cineplex (y/n)?|: y.
+ish,do you want to subscribe max_hd (y/n)?|: y.
+ish,do you want to subscribe star_gold_hd ?(y/n)|: y.
+ish,do you want to subscribe zee_cinema_hd ?(y/n)|: y.
+ish,do you want to subscribe utv_hd ?(y/n)|: y.
+ish,do you want to subscribe and_pictures_hd ?(y/n)|: y.
+ish,do you want to subscribe cartoon_network_hd ?(y/n)|: y.
+ish,do you want to subscribe republic_bharat ?(y/n)|: y.
+ish,do you want to subscribe mtv_hd ?(y/n)|: y.
+ish,do you want to subscribe star_sports_1 hd ?(y/n)|: y.
+ish,do you want to subscribe star_sports_2_hd ?(y/n)|: y.
+ish,do you want to subscribe max_2 ?(y/n)|: y.
+ish,do you want to subscribe nick_hd ?(y/n)|: y.
+ish, has successfully subscribed 
+hd channels.
+true .
+
+?- undo.
+true.
+
+?-
